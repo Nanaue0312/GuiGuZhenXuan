@@ -1,7 +1,5 @@
 <template>
-	<div>
-		<router-view></router-view>
-	</div>
+	<div>添加sku</div>
 </template>
 
 <script setup lang="ts"></script>

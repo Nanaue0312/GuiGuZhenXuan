@@ -1,7 +1,5 @@
 <template>
-	<div>
-		<router-view></router-view>
-	</div>
+	<div>性别比例</div>
 </template>
 
 <script setup lang="ts"></script>
